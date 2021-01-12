@@ -1,0 +1,117 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	list-style: none;
+}
+
+/* <!-- Header Section --> */
+.max__width {
+	width: 1600px;
+	/* height: 750px; */
+	margin: 0 auto;
+}
+.main__btn {
+	font-family: Josefin Sans;
+	color: #fff;
+	text-transform: uppercase;
+	background: linear-gradient(90deg, #f52958 0%, #c542df 100%);
+	padding: 25px 50px;
+}
+.main__container {
+	background-image: url(/images/header.png);
+	width: 1600px;
+	height: 750px;
+	margin: 0 auto;
+}
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 50px;
+}
+.menu {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.menu li a {
+	font-family: Josefin Sans;
+	padding: 0px 20px;
+	color: black;
+}
+.header-contents {
+	float: right;
+}
+.header-contents {
+	float: right;
+
+	position: absolute;
+	width: 560px;
+	height: 138px;
+	left: 985px;
+	top: 250px;
+}
+
+.header-contents p {
+	font-family: Josefin Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 18px;
+	/* identical to box height */
+
+	text-transform: uppercase;
+
+	color: #ffffff;
+	margin-left: 40px;
+	padding-top: 30px;
+}
+/*  <!-- About US Section  -->*/
+.about__us {
+	background-color: black;
+	color: #fff;
+	padding: 150px 0px;
+	margin: 0 auto;
+}
+.about__contents {
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+}
+/*   <!-- What I Do section  --> */
+.about__contents h1 {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 60px;
+	/* identical to box height */
+
+	color: #ffffff;
+}
+.about__contents p {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 30px;
+	/* or 167% */
+
+	text-align: center;
+
+	color: #ffffff;
+	padding-bottom: 70px;
+}
+/*   <!-- What I Do section  --> */
+
+/* <!-- Our feature work section  --> */
+
+/* <!-- our clients area section  --> */
+
+/* <!-- what we offerd section  --> */
+
+/*  <!-- contact us section  --> */
+
+/* footer section  */
